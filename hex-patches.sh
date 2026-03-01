@@ -26,6 +26,7 @@ declare -a HEX_PATCHES=(
     "9ef0f4ec28b1701c:9ef0f4ec28b9701c"
     "9ef00ced28b1701c:9ef00ced28b9701c"
     "2001597ae0000054:2001597ae1000054"
+    "6b880494e0031f2a:6b88049420008052"
     
     # --[ Copyright & Permission Notice ]--
     #
