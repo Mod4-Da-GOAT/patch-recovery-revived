@@ -58,7 +58,7 @@ Use the GitHub Actions workflow to automate the process:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ravindu644/patch-recovery-revived.git
+   git clone https://github.com/Mod4-Da-GOAT/patch-recovery-revived.git
    cd patch-recovery-revived
    ```
 
