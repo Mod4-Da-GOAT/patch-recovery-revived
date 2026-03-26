@@ -26,6 +26,7 @@ declare -a HEX_PATCHES=(
     "9ef0f4ec28b1701c:9ef0f4ec28b9701c"
     "9ef00ced28b1701c:9ef00ced28b9701c"
     "2001597ae0000054:2001597ae1000054"
+    "6b880494e0031f2a:6b88049420008052"
     
     # --[ Copyright & Permission Notice ]--
     #
@@ -58,6 +59,9 @@ declare -a HEX_PATCHES=(
     # A556E
     "47a00494e0031f2a:47a0049420008052"
     "e89f0494f3031f2a:e89f049433008052"
+
+    # A546E
+    "6b880494e0031f2a:6b88049420008052"
 
     # SM-M145F, UI 6.1
     "21010054e003142af44f48a9:2101005420008052f44f48a9"
